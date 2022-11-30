@@ -1,0 +1,29 @@
+{
+  "name": "express-nodejs__basics",
+  "version": "1.0.0",
+  "description": "Basics of Back-End",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeyefendi/express-nodejs__basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeyefendi/express-nodejs__basics/issues"
+  },
+  "homepage": "https://github.com/jeyefendi/express-nodejs__basics#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.7.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
